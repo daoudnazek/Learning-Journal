@@ -10,6 +10,8 @@ It is commonly used in **GitHub** platform . eventhoug it has it`s own version o
 - adding Images 
 - creating lists 
 
+You can check more info in the link here 
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
 
