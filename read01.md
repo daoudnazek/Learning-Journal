@@ -6,9 +6,9 @@ It is commonly used in **GitHub** platform . eventhoug it has it`s own version o
 
 **Markdown** is used to :
 
--Formatting words
--adding Images 
--creating lists 
+- Formatting words
+- adding Images 
+- creating lists 
 
 
 
