@@ -11,5 +11,7 @@
 
 For more information about growth mindset , please check the article by clicking the link [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-My Name is Daoud , Iam new programmer , to check my codes and progress please visit my profile in **GitHub.com** 
+
+
+**My Name is Daoud Nazek**  , Iam new programmer , to check my codes and progress please visit my profile in **GitHub.com** 
 [DaoudNazek](https://github.com/daoudnazek)
