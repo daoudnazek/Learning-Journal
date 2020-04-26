@@ -5,9 +5,10 @@
 It is commonly used in **GitHub** platform . eventhoug it has it`s own version of markdown with more features.
 
 **Markdown** is used to :
-*Formatting words
-*adding Images 
-*creating lists 
+
+-Formatting words
+-adding Images 
+-creating lists 
 
 
 
