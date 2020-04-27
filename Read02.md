@@ -9,3 +9,11 @@ As a *web developer* there are sone features you should have in your text editor
 2. **Syntax Highlighting** : Coloring the text to make it more noticable.
 3. **Various Themes** : changing the background and text styles.
 4. **Adding extentions** : plugins you can add to have more features.
+
+
+### Examples of text Editors :
+* NotePad++ 
+* TextWrangler 
+* VS Code 
+* Atom 
+* Brackets 
