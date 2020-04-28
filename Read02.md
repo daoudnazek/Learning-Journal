@@ -45,6 +45,6 @@ As a *web developer* there are sone features you should have in your text editor
 **file** : The command to show type of file and file directory 
 **ls -a** : The command to list all files including the hidden files 
 
- 
+     
    
    
