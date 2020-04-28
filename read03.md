@@ -30,4 +30,57 @@ it is a system used to store multiple versions of the file , and record changes,
 [Windows](http://windows.github.com)
 [Mac Os](http://mac.github.com)
 
-   
+## How to Deal with Git through terminal 
+
+* **Cloning** 
+To Download the file in GitHub to your local machine 
+$ git clone https://github.com/test
+
+* **Files Status** 
+To check the state of your file 
+$ git status
+
+* **Track a new file** 
+$ git add filename 
+
+* **Commit a file** 
+To commit the changes of one file 
+$ git commit -m “made change x,y,z”
+To commit all changes 
+$ git commit -a
+
+* **Pushing changes** 
+$ git push origin master
+
+* **Seeing your remote** 
+To view the short names of all remotes 
+$ cd example
+
+$ git remote -v
+
+* **Create a new remote**
+git remote add shortname url
+
+* **Fetching** 
+To pul data you don`t have 
+git fetch [remote-name]
+
+* **Pushing** 
+To push your files to GitHub, from local data to cloud
+$ git push origin master
+
+* **Renaming remotes** 
+$ git remote rename js jane
+
+$ git remote
+
+origin
+
+jane
+
+* **Removing remotes**
+$ git remote rm jane
+
+$ git remote
+
+origin
