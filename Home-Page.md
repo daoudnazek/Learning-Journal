@@ -1,13 +1,10 @@
-# MarkDown 
+# Software Development Course 
 
-**markdown** is a syntax used to style and format text on the web. it is just a regular text with few symbols.
-It is commonly used in **GitHub** platform . eventhoug it has it`s own version of markdown with more features.
+**My Name is Daoud Nazek** , I am learning software development and here is a table of my progress
 
-**Markdown** is used to :
+Topic | Link 
+----- | -----
+Markdown | [Read01](https://daoudnazek.github.io/Learning-Journal/read01)
 
-- Formatting words
-- adding Images 
-- creating lists 
 
-You can check more info in the link here 
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
