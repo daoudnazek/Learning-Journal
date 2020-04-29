@@ -7,23 +7,23 @@
 
 ## HTML elements 
 
-* <header> , <main>, <footer> : the three main parts inside the <body> of the web page.
+* "<header> , <main>, <footer>" : the three main parts inside the <body> of the web page.
 
-* <ul> : unordered list 
-* <li> : list
-* <a href=""> : Links
-* <nav> : navigation
-* <article>
-* <img src="" :> : Images 
-* <P> : paragraph 
-* <h1><h2><h3><h4><h5><h6> : headers ( 1 is the most important and has the bigger font)
-* <!-- --> : comments
-* <p id=" "> : id attribute 
-* <p class=" "> : class attribute 
-* <a> <b> <em> <img> : inline elememts 
-* <div> : group multiple elements in one block 
-* <span> : group text and elements inline 
-* <iframe> : inline frame 
+* "<ul>" : unordered list 
+* "<li>" : list
+* "<a href="">" : Links
+* "<nav>" : navigation
+* "<article>"
+* "<img src="" :>" : Images 
+* "<P>" : paragraph 
+* "<h1><h2><h3><h4><h5><h6>" : headers ( 1 is the most important and has the bigger font)
+* "<!-- -->" : comments
+* "<p id=" ">" : id attribute 
+* "<p class=" ">" : class attribute 
+* "<a> <b> <em> <img>" : inline elememts 
+* "<div>" : group multiple elements in one block 
+* "<span>" : group text and elements inline 
+* "<iframe>" : inline frame 
 
 ## HTML5 layout 
 
